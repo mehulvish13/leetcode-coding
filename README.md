@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/mehulvish13/leetcode-coding/tree/master/0804-unique-morse-code-words) |
+| [0875-koko-eating-bananas](https://github.com/mehulvish13/leetcode-coding/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
 | ------- |
@@ -15,4 +16,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0804-unique-morse-code-words](https://github.com/mehulvish13/leetcode-coding/tree/master/0804-unique-morse-code-words) |
+## Binary Search
+|  |
+| ------- |
+| [0875-koko-eating-bananas](https://github.com/mehulvish13/leetcode-coding/tree/master/0875-koko-eating-bananas) |
 <!---LeetCode Topics End-->
