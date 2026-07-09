@@ -14,3 +14,7 @@ class Solution:
             return 0
         else:
             return -heap[0]
+        # Max heap: [8,7,4,2,1,1]
+        # While len heap > 1. heap pop twice, add together, add back
+        # if len heap == 1 return the top item 
+        # if len heap == 0 return 0
