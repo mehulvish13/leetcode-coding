@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mehulvish13/leetcode-coding/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mehulvish13/leetcode-coding/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/mehulvish13/leetcode-coding/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0804-unique-morse-code-words](https://github.com/mehulvish13/leetcode-coding/tree/master/0804-unique-morse-code-words) |
 | [0875-koko-eating-bananas](https://github.com/mehulvish13/leetcode-coding/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/mehulvish13/leetcode-coding/tree/master/0973-k-closest-points-to-origin) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/mehulvish13/leetcode-coding/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mehulvish13/leetcode-coding/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mehulvish13/leetcode-coding/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 | [0804-unique-morse-code-words](https://github.com/mehulvish13/leetcode-coding/tree/master/0804-unique-morse-code-words) |
 ## String
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mehulvish13/leetcode-coding/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mehulvish13/leetcode-coding/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/mehulvish13/leetcode-coding/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/mehulvish13/leetcode-coding/tree/master/0973-k-closest-points-to-origin) |
 ## Divide and Conquer
@@ -55,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulvish13/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mehulvish13/leetcode-coding/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/mehulvish13/leetcode-coding/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/mehulvish13/leetcode-coding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mehulvish13/leetcode-coding/tree/master/1046-last-stone-weight) |
@@ -72,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/mehulvish13/leetcode-coding/tree/master/0347-top-k-frequent-elements) |
+| [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 ## Math
 |  |
@@ -85,5 +90,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0502-ipo](https://github.com/mehulvish13/leetcode-coding/tree/master/0502-ipo) |
+| [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 <!---LeetCode Topics End-->
