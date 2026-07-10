@@ -58,3 +58,26 @@ class Solution:
         #     if f == maxFreq:
         #         maxCount += 1
         # return max(len(tasks), (maxFreq - 1) * (n + 1) + maxCount)
+
+#         from collections import Counter
+# from collections import deque
+# import heapq
+
+# class Solution:
+#     def leastInterval(self, tasks: List[str], n: int) -> int:
+#         count=Counter(tasks)
+#         maxHeap=[-cnt for cnt in count.values()]
+#         heapq.heapify(maxHeap)
+#         queue=deque()
+#         programCounter=0
+
+#         while maxHeap or queue:
+#             programCounter+=1
+#             if maxHeap:
+#                 curr=maxHeap.pop(0)+1
+#                 if curr:
+#                     queue.append([curr,programCounter+n])
+#             if queue and queue[0][1]==programCounter:
+#                 heapq.heappush(maxHeap,queue.popleft()[0])
+        
+#         return programCounter
