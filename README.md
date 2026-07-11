@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/mehulvish13/leetcode-coding/tree/master/0875-koko-eating-bananas) |
 | [0973-k-closest-points-to-origin](https://github.com/mehulvish13/leetcode-coding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mehulvish13/leetcode-coding/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mehulvish13/leetcode-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/mehulvish13/leetcode-coding/tree/master/0875-koko-eating-bananas) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
 |  |
 | ------- |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/mehulvish13/leetcode-coding/tree/master/0973-k-closest-points-to-origin) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -62,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/mehulvish13/leetcode-coding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mehulvish13/leetcode-coding/tree/master/1046-last-stone-weight) |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Quickselect
 |  |
 | ------- |
@@ -92,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0502-ipo](https://github.com/mehulvish13/leetcode-coding/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
+## Matrix
+|  |
+| ------- |
+| [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
