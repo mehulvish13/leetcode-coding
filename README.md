@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulvish13/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mehulvish13/leetcode-coding/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mehulvish13/leetcode-coding/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/mehulvish13/leetcode-coding/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0804-unique-morse-code-words](https://github.com/mehulvish13/leetcode-coding/tree/master/0804-unique-morse-code-words) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/mehulvish13/leetcode-coding/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0875-koko-eating-bananas](https://github.com/mehulvish13/leetcode-coding/tree/master/0875-koko-eating-bananas) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 ## Sorting
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulvish13/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/mehulvish13/leetcode-coding/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/mehulvish13/leetcode-coding/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/mehulvish13/leetcode-coding/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
@@ -60,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/mehulvish13/leetcode-coding/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/mehulvish13/leetcode-coding/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0502-ipo](https://github.com/mehulvish13/leetcode-coding/tree/master/0502-ipo) |
 | [0621-task-scheduler](https://github.com/mehulvish13/leetcode-coding/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
@@ -99,5 +103,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
 <!---LeetCode Topics End-->
