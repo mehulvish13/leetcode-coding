@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/mehulvish13/leetcode-coding/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/mehulvish13/leetcode-coding/tree/master/1046-last-stone-weight) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+| [1528-shuffle-string](https://github.com/mehulvish13/leetcode-coding/tree/master/1528-shuffle-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 | [0804-unique-morse-code-words](https://github.com/mehulvish13/leetcode-coding/tree/master/0804-unique-morse-code-words) |
+| [1528-shuffle-string](https://github.com/mehulvish13/leetcode-coding/tree/master/1528-shuffle-string) |
 ## Binary Search
 |  |
 | ------- |
