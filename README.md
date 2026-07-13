@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0551-student-attendance-record-i](https://github.com/mehulvish13/leetcode-coding/tree/master/0551-student-attendance-record-i) |
 | [0767-reorganize-string](https://github.com/mehulvish13/leetcode-coding/tree/master/0767-reorganize-string) |
 | [0804-unique-morse-code-words](https://github.com/mehulvish13/leetcode-coding/tree/master/0804-unique-morse-code-words) |
 | [1528-shuffle-string](https://github.com/mehulvish13/leetcode-coding/tree/master/1528-shuffle-string) |
