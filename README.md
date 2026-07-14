@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/mehulvish13/leetcode-coding/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/mehulvish13/leetcode-coding/tree/master/0973-k-closest-points-to-origin) |
 ## Geometry
 |  |
@@ -108,4 +109,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1337-the-k-weakest-rows-in-a-matrix](https://github.com/mehulvish13/leetcode-coding/tree/master/1337-the-k-weakest-rows-in-a-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mehulvish13/leetcode-coding/tree/master/0509-fibonacci-number) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mehulvish13/leetcode-coding/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/mehulvish13/leetcode-coding/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
